@@ -8,4 +8,4 @@ Translations of the 3.0 IGO port into official languages of the United Nations, 
 | Driver  | [Diane Peters](https://github.com/peterspdx)  |
 | Accountable  |   |
 | Consulted | Add yourselves here |
-| Informed | [Cable Green](https://github.com/cablegreen) [Ryan Merkley](https://github.com/ryanmerkley) |
+| Informed | [Cable Green](https://github.com/cablegreen), [Ryan Merkley](https://github.com/ryanmerkley) |

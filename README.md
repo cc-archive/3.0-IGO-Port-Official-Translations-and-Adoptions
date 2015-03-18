@@ -6,6 +6,6 @@ Translations of the 3.0 IGO port into official languages of the United Nations, 
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Diane Peters](https://github.com/peterspdx)  |
-| Accountable  |   |
+| Accountable  | [Diane Peters](https://github.com/peterspdx)  |
 | Consulted | Matt, Sarah|
 | Informed | [Cable Green](https://github.com/cablegreen), [Ryan Merkley](https://github.com/ryanmerkley) |
